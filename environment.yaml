@@ -1,0 +1,21 @@
+name: icenet-caribou
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - gdal
+  - netcdf4
+  - pyproj
+  - numpy
+  - rasterio
+  - cartopy
+  - python=3.9
+  - xarray
+  - jupyter
+  - gdown
+  - imageio
+  - pandas
+  - geopandas
+  - movingpandas
+  - stonesoup
+  - contextily
